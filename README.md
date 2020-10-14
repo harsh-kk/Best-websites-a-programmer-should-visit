@@ -746,6 +746,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Punctuation and Capitalization Rules](http://www.grammarbook.com/english_rules.asp)
 - [Purdue University Online Writing Lab (OWL)](https://owl.english.purdue.edu)
 - [Quia - English](https://www.quia.com/shared/english/)
+- [Amigos Ingleses](http://www.amigosingleses.com/)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
